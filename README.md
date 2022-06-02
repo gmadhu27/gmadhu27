@@ -5,13 +5,14 @@
 
 
 
-- 🔭 I’m currently working on Kotlin/Flutter Projects
-- 🌱 I've 4+ years of professional experience worked at mobile applications
-- 👯 I’m looking to collaborate on Kotin/Flutter
-- 🤔 I’m lalso working as a Freelancer at Upwork and others companys.
+- 🔭 I’m currently working on Kotlin/Flutter Projects and also exploring android’s modern toolkit Jetpack Compose UI.
+- 🌱 I've 4+ years of professional experience worked at mobile applications, currently working at <a target="_blank" href="https://inficare.com.my/"> Inficare Pvt Ltd</a>
+- 👯 I’m looking to collaborate on Kotlin/Flutter
+- 🤔 I’m also working as a Freelancer Mobile App Developer at upwork and others companys.
 - 💬 Ask me about Programming or Mobile App Development
 
-<p>Connect with me on
+<p>📫Connect with me on
+<br>	
 <br>	
 <a target="_blank" href="https://www.linkedin.com/in/gmadhu27/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 &emsp;
