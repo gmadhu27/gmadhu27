@@ -28,19 +28,23 @@
 - ⚡ Fun fact: ... I am batman. 😎🦇 
 
 
+##### Languages I use
 
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=FFFFFF)
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=FFFFFF)
+![Dart](https://img.shields.io/badge/Dart-0095D5?style=flat&logo=kotlin&logoColor=FFFFFF)
 
-<!--
-**gmadhu27/gmadhu27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### Some of the technologies I have worked with
 
-Here are some ideas to get you started:
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=FFFFFF)
+![Flutter](https://img.shields.io/badge/-Flutter-3DDC84?style=flat&logo=android&logoColor=FFFFFF)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=FFFFFF)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=FFFFFF)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=222222)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=FFFFFF)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=FFFFFF)
+![GitLab](https://img.shields.io/badge/-GitLab-222222?style=flat&logo=GitLab&logoColor=FCC624)
+![Android Studio](https://img.shields.io/badge/-AndroidStudio-3DDC84?style=flat&logo=android-studio&logoColor=FFFFFF)
+![Visual Studio Code](https://img.shields.io/badge/-VSCode-FFFFFF?style=flat&logo=visual-studio-code&logoColor=24acf2)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Madhu Gautam's github stats.](https://github-readme-stats.vercel.app/api?username=gmadhu27)](https://github.com/gmadhu27/github-readme-stats)
