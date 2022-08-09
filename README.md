@@ -6,7 +6,7 @@
 
 
 - 🔭 I’m currently working on Kotlin, Flutter Projects and also exploring android’s modern toolkit Jetpack Compose UI.
-- 🌱 I've 4+ years of professional experience worked at mobile applications, currently working at <a target="_blank" href="https://inficare.com.my/"> Inficare Pvt Ltd</a>
+- 🌱 I've 5+ years of professional experience worked at mobile applications, currently working at <a target="_blank" href="https://inficare.com.my/"> Inficare Pvt Ltd</a>
 - 👯 I’m looking to collaborate on Kotlin/Flutter
 - 🤔 I’m also working as a Freelancer Mobile App Developer at upwork and others companys.
 - 💬 Ask me about Programming or Mobile App Development
